@@ -1,1 +1,28 @@
+body {
+    background-color: #69747C;
+}
 
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #545454;
+}
+
+.bg-info {
+    background-color: #84DD63 !important; /* Medium shade for navbar */
+}
+
+.btn-info {
+    background-color: #CBFF4D;
+}
+
+.btn-primary {
+    color: #6BAA75; /* Light shade for text */
+    font-size: 150%;
+    background-color: #6BAA75; /* Dark shade for primary button background */
+    border-color: #545454; /* Darkest shade for border */
+    border-width: thick;
+}
+
+.navbar-brand{
+    font-family: 'Roboto', bold; /*change the font name for what you have*/
+    font-size: 2.25rem;
+}
